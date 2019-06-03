@@ -1,7 +1,9 @@
 This is a Java Application for authentication and sending document for Signature using DocuSign REST API.
+
 This is Application created using Java Spring Boot with Maven and Authentication with DocuSign is done using  OAuth Authorization Code.
 
 To run this project -
+
 1) Import cloned project in eclipse(with maven plugin) as Maven Project.
 2) Set Project Compiler to JDK(latest version)
 3) Configure the project by updating the file "src\main\resources\application.properties".
