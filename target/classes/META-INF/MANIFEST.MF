@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Blank Project (from https://github.c
+ om/making/spring-boot-blank)
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Mayur
+Implementation-Vendor-Id: com.docusign
+Build-Jdk: 1.8.0_202-release
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: app.App
+
